@@ -1,5 +1,7 @@
 # Assignment 2 Solution
 
+Please see veedeo.mp4 for demo
+
 ## Setup
 
 Ensure you create the database schema with the `database/schema.sql` file. The credentials for the database can be added within the Repository.php file.
